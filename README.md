@@ -1,8 +1,8 @@
 # CheXNet-for-Augmented-Pneumonia
 
-A version of CheXNet was implemented to diagnose Pneumonia based on frontal X-ray images.
+My version of CheXNet was implemented to diagnose Pneumonia based on frontal X-ray images.
 
-The two Generative Adversarial Networks (GANs), namely CGAN and DCGAN, are used to generate more data for the imbalanced class (Negative). The dataset folder should be organized as the followings:
+The two Generative Adversarial Networks (GANs), namely CGAN and DCGAN, are used to generate more data for the imbalanced class (Negative). They are implemented by @github/tiendatnguyen-vision. The dataset folder should be organized as the followings:
 
 ```
 ---datasets |
